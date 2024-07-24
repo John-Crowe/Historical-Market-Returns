@@ -9,7 +9,7 @@ This is a value-weighted portfolio calculating the total excess US market return
 The following packages in Python to run these scripts:
 
 * wrds
-\item pandas
-\itme pandas_datareader
-\item datetime
-\item numpy
+* pandas
+* pandas_datareader
+* datetime
+* numpy
